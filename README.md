@@ -1,7 +1,7 @@
 
 ## About Web Haji Umroh CMS
 
-Web Haji dan Umroh CMS adalah CMS berbasis Laravel yang dikhususkan untuk website pemerintahan, dengan menu-standar yang tersedia adalah :
+Web Haji dan Umroh CMS adalah CMS berbasis Laravel yang dikhususkan untuk website kecil menengah, dengan menu-standar yang tersedia adalah :
 
 - Subdomain (multi subdomain)
 - Halaman statis, biasa digunakan untuk membuat halaman profil, sejarah, dll
