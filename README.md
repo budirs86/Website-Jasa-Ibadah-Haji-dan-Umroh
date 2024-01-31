@@ -12,10 +12,15 @@ Web Haji dan Umroh CMS adalah CMS berbasis Laravel yang dikhususkan untuk websit
 - Slide
 - Pengumuman
 - File upload untuk dokumen/peraturan/galery/file dll
-- Multi Admin, dengan 1 Admin utama
+- Multiple Admin, dengan 1 Admin utama
 
 
 Dengan berbasis Laravel aplikasi ini  mudah diakses , powerful, dan dapat dikembangkan menjadi lebih kaya fitur.
+
+Future Fitur :
+- Drag Drop Menu Management "like wordpress :) "
+- GUI Base change Theme
+   
 
 ## Sponsors
 
