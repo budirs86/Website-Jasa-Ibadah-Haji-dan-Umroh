@@ -20,6 +20,7 @@ Dengan berbasis Laravel aplikasi ini  mudah diakses , powerful, dan dapat dikemb
 Future Fitur :
 - Drag Drop Menu Management "like wordpress :) "
 - GUI Base change Theme
+- AJAX Modal CRUD Transaction
    
 
 ## Sponsors
