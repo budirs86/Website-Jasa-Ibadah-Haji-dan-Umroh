@@ -24,7 +24,7 @@ Terbuka untuk sponsor pengembangan, silakan mail ke budirs86@gmail.com
 
 ## Contributing
 
-Sangat terbuka jika ada yang ingin berkontribusi
+Aplikais ini adalah aplikasi Laravel saya, dan sangat terbuka jika ada yang ingin berkontribusi untuk menyempurnakan atau mau berkolaborasi :)
 
 
 ## Security Vulnerabilities
