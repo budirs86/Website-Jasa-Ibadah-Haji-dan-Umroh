@@ -30,7 +30,7 @@ Terbuka untuk sponsor pengembangan, silakan mail ke budirs86@gmail.com
 
 ## Contributing
 
-Aplikais ini adalah aplikasi Laravel saya, dan sangat terbuka jika ada yang ingin berkontribusi untuk menyempurnakan atau mau berkolaborasi :)
+Aplikasi ini adalah aplikasi Laravel saya :),tentu masi banyak sekali kekurangan dan sangat terbuka jika ada yang ingin berkontribusi untuk menyempurnakan atau mau berkolaborasi :)
 
 
 ## Security Vulnerabilities
